@@ -12,3 +12,8 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url('../images/foto.jpeg');
     margin-top: 24px;
 }
+.columnas{
+   margin-left: 150px;
+   margin-right: 150px;
+  
+}
